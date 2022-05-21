@@ -1,9 +1,6 @@
 ##  欢迎来到fardx的博客！！！
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isfardx/fardxblog.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 这里有什么
+这里有我的教程（c#,godot）以及各种沙雕github项目的收集
+### 出现了问题？
+你可以通过发送电子邮件至fardfard@yeah.net来告诉我！
