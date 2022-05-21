@@ -1,4 +1,4 @@
-## AAAAAAAAAAAAAAA
+##  欢迎来到fardx的博客！！！
 
 ### Jekyll Themes
 
